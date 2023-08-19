@@ -1,9 +1,5 @@
 <br clear="both">
 
-<div align="left">
-  <img height="150" src="https://tenor.com/view/music-gif-24483887"  />
-</div>
-
 ###
 
 <h1 align="left">hey there 👋</h1>
