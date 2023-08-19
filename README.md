@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Kay from Auckland, New Zealand<br><br>- 🔭 I’m a student at the University of Auckland<br>- 📚  I'm currently learning Java/Javafx<br>- ⚡ In my free time I play chess and speedcube.</p>
+<p align="left">I'm Kay from Auckland, New Zealand<br><br>- 🔭 I’m a student at the University of Auckland.<br>- 📚  I'm currently learning Java/Javafx.<br>- ⚡ In my free time I play chess and speedcube.</p>
 
 ###
 
