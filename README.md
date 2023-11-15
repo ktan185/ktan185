@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Kay from Auckland, New Zealand<br><br>- 🧑🏻‍🎓 I’m a penultimate Software Engineering student at the University of Auckland.<br>- 📚 I'm currently learning JavaScript and React<br>- ⚡In my free time I play chess and speedcube.</p>
+<p align="left">I'm Kay from Auckland, New Zealand<br><br>- 🧑🏻‍🎓 I’m a Penultimate Software Engineering student at the University of Auckland.<br>- 📚 I'm currently learning JavaScript and React<br>- ⚡In my free time I play chess and speedcube.</p>
 
 ###
 
@@ -49,10 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ktan185&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ktan185&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ktan185/ktan185/output/snake.svg" alt="Snake animation" />
 
 ###
 
