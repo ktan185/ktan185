@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Kay from Auckland, New Zealand<br><br>- 🧑🏻‍🎓 I’m a Penultimate Software Engineering student at the University of Auckland.<br>- 📚 I'm currently learning JavaScript and React<br>- ⚡In my free time I play chess and speedcube.</br>- 🔗 Learn more about me <a href="https://kaytang.com/">here!</a></p>
+<p align="left">I'm Kay from Auckland, New Zealand<br><br>- 🧑🏻‍🎓 I’m a Software Engineering student at the University of Auckland.<br>- 📚 I'm currently learning JavaScript and React<br>- ⚡In my free time I play chess and speedcube.</br>- 🔗 Learn more about me <a href="https://kaytang.com/">here!</a></p>
 
 ###
 
